@@ -34,4 +34,4 @@ MengSing Hub คือเว็บไซต์ที่สร้างขึ้�
 
 1. Clone โปรเจกต์นี้
    ```bash
-   git clone https://github.com/ชื่อของคุณ/mengsing.hub.git
+   git clone https://github.com/mengsing.hub.git
